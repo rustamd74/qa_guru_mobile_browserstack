@@ -1,6 +1,5 @@
 import allure
 from allure_commons.types import AttachmentType
-#https://app-automate.browserstack.com/s3-upload/bs-video-logs-euw/s3.eu-west-1/2b7e5c4dd50ca1dc2a740c1fb0981ef8c8d91bfa/video-2b7e5c4dd50ca1dc2a740c1fb0981ef8c8d91bfa.mp4
 
 
 def add_video(browser):
