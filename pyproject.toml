@@ -9,7 +9,7 @@ packages = [{include = "qa_guru_mobile_browserstack"}]
 [tool.poetry.dependencies]
 python = "^3.10.5"
 selenium = "^4.5.0"
-selene = {version = "^2.0.0-beta.17", allow-prereleases = true}
+selene = {version = "^2.0.0-beta.8", allow-prereleases = true}
 Appium-Python-Client = "^2.8.1"
 pytest = "^7.1.3"
 pytest-xdist = "^3.2.1"
