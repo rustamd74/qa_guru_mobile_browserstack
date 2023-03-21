@@ -2,30 +2,30 @@
 
 [[package]]
 name = "allure-pytest"
-version = "2.13.0"
+version = "2.13.1"
 description = "Allure pytest integration"
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "allure-pytest-2.13.0.tar.gz", hash = "sha256:4efd0a92f981780a0bcab324dd37d5487f85d6c60e44d9470ef1b5825bfeab54"},
-    {file = "allure_pytest-2.13.0-py3-none-any.whl", hash = "sha256:c8da8460d3732501154a92c63b15299f873889842bcfb5598e8e572f9de005bc"},
+    {file = "allure-pytest-2.13.1.tar.gz", hash = "sha256:68d69456eeb65af4061ec06a80bc941163b0616e8216554d36b070a6bf070e08"},
+    {file = "allure_pytest-2.13.1-py3-none-any.whl", hash = "sha256:a8de2fc3b3effe2d8f98801646920de3f055b779710f4c806dbee7c613c24633"},
 ]
 
 [package.dependencies]
-allure-python-commons = "2.13.0"
+allure-python-commons = "2.13.1"
 pytest = ">=4.5.0"
 
 [[package]]
 name = "allure-python-commons"
-version = "2.13.0"
+version = "2.13.1"
 description = "Common module for integrate allure with python-based frameworks"
 category = "main"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "allure-python-commons-2.13.0.tar.gz", hash = "sha256:c3a205435420fb93f0144fb66bf7ed77318b08b0ad62940f2987e7c71e4e56d7"},
-    {file = "allure_python_commons-2.13.0-py3-none-any.whl", hash = "sha256:f245d474cc14ba3d05c9fa29642a22f9b33a900450f3f5cb3f08a365a63d2e93"},
+    {file = "allure-python-commons-2.13.1.tar.gz", hash = "sha256:3fc13e1da8ebb23f9ab5c9c72ad04595023cdd5078dbb8604939997faebed5cb"},
+    {file = "allure_python_commons-2.13.1-py3-none-any.whl", hash = "sha256:d08e04867bddf44fef55def3d67f4bc25af58a1bf9fcffcf4ec3331f7f2ef0d0"},
 ]
 
 [package.dependencies]
@@ -445,14 +445,14 @@ files = [
 
 [[package]]
 name = "pathspec"
-version = "0.11.0"
+version = "0.11.1"
 description = "Utility library for gitignore style pattern matching of file paths."
 category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "pathspec-0.11.0-py3-none-any.whl", hash = "sha256:3a66eb970cbac598f9e5ccb5b2cf58930cd8e3ed86d393d541eaf2d8b1705229"},
-    {file = "pathspec-0.11.0.tar.gz", hash = "sha256:64d338d4e0914e91c1792321e6907b5a593f1ab1851de7fc269557a21b30ebbc"},
+    {file = "pathspec-0.11.1-py3-none-any.whl", hash = "sha256:d8af70af76652554bd134c22b3e8a1cc46ed7d91edcdd721ef1a0c51a84a5293"},
+    {file = "pathspec-0.11.1.tar.gz", hash = "sha256:2798de800fa92780e33acca925945e9a19a133b715067cf165b8866c15a31687"},
 ]
 
 [[package]]
@@ -847,4 +847,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10.5"
-content-hash = "3a2f2a391adfb55d3157b66ab5532640b83227898baf0afb1e4365626d508f82"
+content-hash = "67a9058c72ebb9fac62160fee6fde878480ffc2eb32f0508cd50b3095a2100e6"
